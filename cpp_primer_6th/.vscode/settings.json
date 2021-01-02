@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "mutex": "cpp",
+        "condition_variable": "cpp",
+        "shared_mutex": "cpp",
+        "thread": "cpp",
+        "numeric": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp"
+    }
+}
